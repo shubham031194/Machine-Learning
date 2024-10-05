@@ -31,6 +31,17 @@ In **unsupervised learning**, the model works with unlabeled data, aiming to ide
 
 A key task in unsupervised learning is **clustering**, where the objective is to group similar data points based on their features. This technique is often used for customer segmentation in marketing, allowing businesses to group customers with similar buying behaviors.
 
+### 3. Reinforcement Learning
+**Reinforcement learning** is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent performs actions and receives rewards or penalties based on the outcome of those actions. Over time, it learns to take actions that maximize cumulative rewards.
+
+**Key Concepts in Reinforcement Learning**:
+- **Agent**: The decision-maker (e.g., a robot or software program).
+- **Environment**: The space or system the agent interacts with (e.g., a game, a physical world).
+- **Action**: The choices made by the agent in each step.
+- **Reward**: Feedback from the environment to guide learning—positive for desirable actions and negative for undesirable ones.
+
+Reinforcement learning has been used in game-playing AIs (such as AlphaGo), robotics, autonomous systems, and optimizing complex processes.
+
 ---
 
 ## Applications of Machine Learning
