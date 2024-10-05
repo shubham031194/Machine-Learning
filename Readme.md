@@ -8,7 +8,8 @@ Machine learning provides tools to analyze, visualize, and forecast data, enabli
 - **Forecasting and Prediction**: Using past data to predict future trends and outcomes.
 - **Automation**: Allows systems to learn and improve without explicit programming, enhancing decision-making and user experiences.
 
-![AI/ML space.](https://github.com/shubham031194/Machine-Learning/blob/main/assets/AI_space.png)
+  ![AI/ML space.](https://github.com/shubham031194/Machine-Learning/blob/main/assets/AI_space.png)
+
 One prominent subset of machine learning is **deep learning**, which leverages **neural networks**, particularly multi-layered ones, to handle complex data and tasks.
 
 ---
