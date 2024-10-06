@@ -15,6 +15,7 @@ Where:
 ![image](https://github.com/user-attachments/assets/59d81b78-6edf-458b-9a3d-fa09e6efda91): Coefficient of the j-th feature
 
 **Key feature:** Ridge regression tends to spread out the error term across multiple features.
+
 **Mathematical Impact:** Helps in reducing the model complexity but does not lead to sparse models (i.e., all coefficients are retained).
 
 ## **Lasso Regression**
@@ -28,6 +29,9 @@ Where:
 
 ![image](https://github.com/user-attachments/assets/965f6508-660e-4644-813d-1e0563db9041): Coefficient of the j-th feature
 
+**Key feature:** Lasso encourages some of the coefficients to become exactly zero, thus performing feature selection.
+
+**Mathematical Impact:** Leads to sparse models by eliminating the least important features.
 
 **Notes:**
 Ridge and Lasso Regression are powerful tools in machine learning that can help prevent overfitting through regularization. While Ridge reduces model complexity, Lasso performs both regularization and feature selection, making it highly useful in sparse data scenarios.
