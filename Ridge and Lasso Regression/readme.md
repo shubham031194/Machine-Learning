@@ -5,6 +5,7 @@ When a machine learning model is overfitted, it captures the noise of the traini
 
 ## **Ridge Regression**
 In Ridge Regression, we add a penalty (also known as **L2 regularization**) that is proportional to the sum of the squared values of the coefficients. This helps in reducing overfitting by shrinking the coefficient values.
+
 ![image](https://github.com/user-attachments/assets/9c3ea2c6-8159-4daa-b5cc-686326b8ed5b)
 
 Where:
@@ -18,6 +19,7 @@ Where:
 
 ## **Lasso Regression**
 In Lasso Regression (short for Least Absolute Shrinkage and Selection Operator) introduces L1 regularization, which adds a penalty proportional to the sum of the absolute values of the coefficients.
+
 ![image](https://github.com/user-attachments/assets/24d24a6a-4c27-47a5-bbed-125be1043ce0)
 
 Where:
