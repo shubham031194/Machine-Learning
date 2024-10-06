@@ -71,6 +71,7 @@ The goal is to minimize this cost function, thus reducing the prediction error.
 The gradient descent update rules are:
 
 m = m - α * (∂/∂m) J(m, c)
+
 c = c - α * (∂/∂c) J(m, c)
 
 Where:
