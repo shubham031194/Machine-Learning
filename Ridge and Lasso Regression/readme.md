@@ -1,4 +1,4 @@
-### **Introduction to Ridge and Lasso Regression**
+# **Introduction to Ridge and Lasso Regression**
 
 Ridge and Lasso are popular machine learning algorithms, specifically used for regression tasks. These methods are crucial in preventing overfitting, which occurs when a model becomes too accurate on the training data, resulting in poor generalization to new, unseen data.
 When a machine learning model is overfitted, it captures the noise of the training data rather than the underlying pattern. This leads to poor performance on new data. Regularization techniques like Ridge and Lasso help combat overfitting by adding a penalty to the cost function.
