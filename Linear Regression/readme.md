@@ -64,6 +64,8 @@ The goal is to minimize this cost function, thus reducing the prediction error.
 
 **Gradient Descent** is an optimization algorithm used to minimize the cost function by adjusting the parameters **m** and **c**. It works by iteratively updating these parameters based on the slope (gradient) of the cost function.
 
+![](https://github.com/shubham031194/Machine-Learning/blob/main/Linear%20Regression/asset/GradientDescent.png)
+
 ### Key Concepts:
 - **Learning Rate (α)**: Controls the step size during the updates. A small learning rate results in slower but more accurate convergence, while a large learning rate may lead to overshooting the minimum.
 - **Convergence**: The process stops when the cost function reaches its global minimum, meaning that the best-fit line has been found.
