@@ -78,6 +78,7 @@ Where:
 - α is the learning rate,
 - J(m, c) is the cost function.
 
+![](https://github.com/shubham031194/Machine-Learning/blob/main/Linear%20Regression/asset/LinearRegression_derivation_01.jpg)
 ---
 
 ## Key Takeaways
