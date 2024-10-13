@@ -91,7 +91,7 @@ Since 𝑃(𝑋) is the same for both Rain and No Rain, we only need to compare 
 
 Since 𝑃(Rain∣𝑋)=0.134 is greater than 𝑃(No Rain∣𝑋)=0.0125, we predict that it will rain.
 
-##Limitations:##
+**Limitations:**
 1. **Conditional Independence Assumption:** This assumption often does not hold in real-world datasets, which can reduce performance.
 2. **Zero Probability Problem:** If a class-conditional probability is zero, the entire posterior probability becomes zero. This issue can be handled using techniques like Laplace smoothing.
 
